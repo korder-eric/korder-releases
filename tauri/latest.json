@@ -1,0 +1,11 @@
+{
+  "version": "0.2.25",
+  "notes": "K-Order Tauri 0.2.25",
+  "pub_date": "2026-03-29T01:36:49.853Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN08xS0oxUVhLWjlMZHI5Zkk5OUlSTnBWL0dsa2ErRDIwU2hpczFOOThkeDBBVnFYQ0N3QzRJOWpqeExra0MrMFAyaGpNemcxSThyaHdOdnRyQ1NLYW5mbjE3bFBkd0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzQ4MTk1CWZpbGU6Sy1PcmRlcl8wLjIuMjVfeDY0LXNldHVwLmV4ZQpGWjBhWm9rb2dyWVMvanZpdG5GaHdlWmxZL0xFSTZ2MmJUb0dqelpZYUJVa0hiVW5ZbDZjU3lvN3J3U04vVHJpbmxub1FOTi8xSDNrRzh6V1lDYldBUT09Cg==",
+      "url": "https://github.com/korder-eric/korder-releases/releases/download/tauri-v0.2.25/K-Order_0.2.25_x64-setup.exe"
+    }
+  }
+}
