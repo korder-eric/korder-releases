@@ -1,11 +1,11 @@
 {
-  "version": "0.2.33",
-  "notes": "K-Order Tauri 0.2.33",
-  "pub_date": "2026-03-30T08:04:31.269Z",
+  "version": "0.2.34",
+  "notes": "KOrder Tauri 0.2.34",
+  "pub_date": "2026-03-30T16:54:17.957Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN08xS0oxUVhLWnc0NS9yZTF6SVl4UElncGFQVTNCQVZ1VEpMZUVBdjJwcCtYL0trdGREK0NweTVnRFVjTzJaRnphTVV5YkhZUTlhQitJMWxKV2ZNdC9qd0Z1RlVWaWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0ODU3ODcwCWZpbGU6Sy1PcmRlcl8wLjIuMzNfeDY0LXNldHVwLmV4ZQp6KzdxbzVvL28vZmZtMGFsVzQrajljVW1ValdlWEhaR3VabVlianBtbkxFdlYrNWRKSmlZVXFCczhxNzNEZkxHYXMwcUd6TTRaTFlKYWJkSysvZXlEQT09Cg==",
-      "url": "https://github.com/korder-eric/korder-releases/releases/download/tauri-v0.2.33/K-Order_0.2.33_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN08xS0oxUVhLWjJwVy9HK2dqdGVvSlRRQ082REUvZEwxN2YrUHpkK1JlVjQ2c012bDFiN2Z6WmFXZnlmNWFLRk1uc2dtOU0yS0ZGM2c2SUdjdEtUTnp6eTAwTVlzMUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0ODg5NjU2CWZpbGU6S09yZGVyXzAuMi4zNF94NjQtc2V0dXAuZXhlClJIdEsvallTMk0zTnprNndxZld4M1hnN2ZqSlczcVpSZERjdk5qWlJCZThteG1wQzkremFuOW4rL3packNFcm02VjgveGVMZFVHQTl2cEpFWFZ5VkJ3PT0K",
+      "url": "https://github.com/korder-eric/korder-releases/releases/download/tauri-v0.2.34/KOrder_0.2.34_x64-setup.exe"
     }
   }
 }
