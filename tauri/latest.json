@@ -1,15 +1,15 @@
 {
-  "version": "0.22.0",
-  "notes": "KOrder 0.22.0",
-  "pub_date": "2026-11-05T11:41:08.642Z",
+  "version": "0.26.0",
+  "notes": "KOrder 0.26.0",
+  "pub_date": "2026-11-11T10:10:19.605Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN08xS0oxUVhLWjZ0UnF1SDlva2YwNXFycE15Tk90dGJucGhqeTZGd0Zsek4yYm5ldklrTVpONHRxTjBBb1VSNkoyQnM4cEJQNEhuSlZ2VUw5Vjg1KzJYN0dnQUIrd0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODc4NTg2CWZpbGU6S09yZGVyXzAuMjIuMF94NjQtc2V0dXAuZXhlCk42N1hpL0R1MG1lZHJMa0hiZ05pR2J1bEFqaUxocG0rVVJMdDVmVGZjYlJLcXAzOUNCZkJPY2FJOElXQWwzWWJvQW1FZWszOUlCUHY2YmpyaWg0YkF3PT0K",
-      "url": "https://github.com/korder-eric/korder-releases/releases/download/korder-v0.22.0/KOrder_0.22.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN08xS0oxUVhLWnhHY28zUk45d2w4bVZIRjFXZ004VERGRm1yYzJ6SFJjbDljOExUR0s2OHUvbU9kZzRKQkRTTzFnTDJraE5oWC8xblE4MG8ybVIrbXVrQzg5VFZCcFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzkxNTkxCWZpbGU6S09yZGVyXzAuMjYuMF94NjQtc2V0dXAuZXhlCm1nNHpkaU1HTEdvWFNyWXZINTVKQ0Z3MjBRVDFPQ1lsaWdhR2lLaHBqbGhTNTFZcEJ2WTRxbUtHQmJsVW9QUDB5MEZMZEVDa21YbGNkTWZ1UVlHQkJ3PT0K",
+      "url": "https://github.com/korder-eric/korder-releases/releases/download/korder-v0.26.0/KOrder_0.26.0_x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN08xS0oxUVhLWjh1NVhSSHBORjMrNGhKd0ZONzhRQnY4UGtnWmVpc1lHdy9UbXpOQzduWHFOci9DbDVLa1hiQ3VMY003VzJuZHFFS24zZm1SaVdWcU9LM2hrb3k3Unc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODc4NzQ2CWZpbGU6S09yZGVyXzAuMjIuMF9hcm02NC1zZXR1cC5leGUKZzlOY1FKQ2Y3K09YT0hnNG5XVFZLY1A5UW5KUVFCMG1jOHEyaEsxR2xlTTZUV3NvUGtvZjJRS2RodUYvOTJ5Y3k4bEtyeTZFUkhWMys4ZWJteGpTQ1E9PQo=",
-      "url": "https://github.com/korder-eric/korder-releases/releases/download/korder-v0.22.0/KOrder_0.22.0_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN08xS0oxUVhLWjVaNWw5cVArejdybDJmUkhtOU9ZQ05SV2pBRVlpR1RZbEp3bUMyWGdaNUNqOUtmUS9qM0FjdGM1MEh5ZEdGTlRaQnkwWnlkM05Ja1NkdW9NblRZbVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzkxNzE5CWZpbGU6S09yZGVyXzAuMjYuMF9hcm02NC1zZXR1cC5leGUKb1d1SXFvcGpScWEyZjRidU9meFRWZW9scFNwV2VyWHVZc3B1cWNiaGNyVmZvcTNaS3ZpWCtRTGw0NCtnMDBNY3lMTXVzSXR4aWR6UzU5dEhQTGFpQXc9PQo=",
+      "url": "https://github.com/korder-eric/korder-releases/releases/download/korder-v0.26.0/KOrder_0.26.0_arm64-setup.exe"
     }
   }
 }
